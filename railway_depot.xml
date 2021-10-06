@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Carriages>
+    <Carriage id="1">
+        <name>locomotive</name>
+        <number>0</number>
+    </Carriage>
+    <Carriage id="2">
+        <name>passenger</name>
+        <number>50</number>
+    </Carriage>
+    <Carriage id="3">
+        <name>commodity</name>
+        <number>1000</number>
+    </Carriage>
+    <Carriage id="4">
+        <name>passenger</name>
+        <number>28</number>
+    </Carriage>
+    <Carriage id="5">
+        <name>commodity</name>
+        <number>1550</number>
+    </Carriage>
+    <Carriage id="6">
+        <name>passenger</name>
+        <number>65</number>
+    </Carriage>
+    <Carriage id="7">
+        <name>commodity</name>
+        <number>650</number>
+    </Carriage>
+    <Carriage id="8">
+        <name>commodity</name>
+        <number>2650</number>
+    </Carriage>
+</Carriages>

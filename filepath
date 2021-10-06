@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Trains>
+    <Train>
+        <carriage>commodity</carriage>
+        <number>4</number>
+        <weight>5850</weight>
+    </Train>
+    <Train>
+        <carriage>passenger</carriage>
+        <number>3</number>
+        <weight>143</weight>
+    </Train>
+    <Train>
+        <carriage>locomotive</carriage>
+        <number>1</number>
+        <weight>0</weight>
+    </Train>
+</Trains>
